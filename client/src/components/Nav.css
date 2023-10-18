@@ -1,0 +1,19 @@
+.nav-list{
+    background-color: rgb(7, 241, 66);
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+    border: 2px solid black;
+}
+
+
+
+.button{
+    background-color: aqua;
+    font-size: large;
+    border-radius: 5px;
+  
+}
+
